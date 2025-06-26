@@ -1,0 +1,22 @@
+Responsive Design :
+- Le site doit être ergonomique et s'adapter à tous les types d'écrans
+- Pas de disposition particulière imposée pour les petits écrans
+
+Accessibilité (a11y) :
+- Le site doit être accessible à tous les utilisateurs
+
+Ressources fournies par le client :
+- Le design doit suivre le wireframe et la charte graphique
+- Les textes du wireframe ne sont pas imposés et peuvent être modifiés
+
+Interactions :
+- Utilisation d'un menu burger pour la navigation en mobile, à implémenter avec JavaScript
+- Le formulaire n'a pas besoin d'être fonctionnel
+
+Uniformité :
+- Tous les boutons de la page doivent avoir la même apparence
+- Tous les champs de formulaire doivent avoir la même apparence
+
+Livrables :
+- Maquettes pour les versions desktop et mobile
+- Page web fonctionnelle en HTML/CSS/JS

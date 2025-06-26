@@ -1,0 +1,24 @@
+Couleurs :
+- #4A148C
+- #7C4DFF
+- #FFEB3B
+- #121212
+- #E0E0E0
+
+Polices :
+- Orbitron
+- Montserrat
+- Roboto
+
+Styles de designs :
+- Utilisation d'ombres portées
+- Glassmorphisme
+
+Médias :
+- Logo
+	- fourni au format SVG
+	- à utiliser exclusivement sur un fond sombre
+- Bannière principale
+	- fournie au format WEBP
+- Images des cartes de la section "Prochaine édition"
+	- non fournies, choix d'images entièrement libre
